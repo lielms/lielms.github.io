@@ -1,1 +1,7 @@
+title: Portfolio
 theme: minima
+
+header_pages:
+  - (WIP) Software Testing Artifact Enhancement.md
+  - (WIP) Algorithm and Data Structures Artifact Enhancement.md
+  - (WIP) Database Artifact Enhancement.md
