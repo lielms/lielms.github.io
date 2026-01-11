@@ -1,7 +1,7 @@
 title: Portfolio
-theme: minima
+theme: just-the-docs
 
-header_pages:
-  - SoftwareTestingArtifactEnhancement.md  
-  - Algorithm-DataStructuresArtifactEnhancement.md  
-  - DatabaseArtifactEnhancement.md  
+just_the_docs:
+  logo: false
+  search_enabled: true
+  aux_links: {}
