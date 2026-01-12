@@ -1,3 +1,0 @@
-# Database Artifact Enhancement
-
-Placeholder
